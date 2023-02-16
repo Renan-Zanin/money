@@ -48,4 +48,7 @@ export const styles = StyleSheet.create({
     color: "#666",
     marginLeft: 10,
   },
+  guarantee: {
+    flexDirection: "row",
+  },
 });

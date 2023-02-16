@@ -1,7 +1,12 @@
 import React, { useState } from "react";
 import { View, Text, TouchableOpacity, TextInput } from "react-native";
 import { InvestimentButton } from "../InvestimentButton";
-import { MaterialIcons, FontAwesome } from "@expo/vector-icons";
+import {
+  MaterialIcons,
+  FontAwesome,
+  AntDesign,
+  Ionicons,
+} from "@expo/vector-icons";
 
 import { styles } from "./styles";
 
@@ -42,7 +47,10 @@ export function NewOpportunitie() {
       </View>
       <View style={styles.columnContent}>
         <Text style={styles.titleText}>Garantias</Text>
-        <Text style={styles.infoText}>#WM000277</Text>
+        <View style={styles.guarantee}>
+          <AntDesign name="star" size={16} color="#eead2d" />
+          <Ionicons name="shield-checkmark" size={16} color="green" />
+        </View>
         <Text style={styles.titleText}>Cotas disponíveis</Text>
         <Text style={styles.infoText}>933</Text>
         <Text style={styles.titleText}>Parcelas</Text>
