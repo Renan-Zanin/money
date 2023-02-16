@@ -20,9 +20,10 @@ Você precisará das seguintes ferramentas:
 Com todas as ferramentas necessárias instaladas, agora você poderá clonar e rodar o projeto em sua máquina local
 
 ```bash
-# Execute o comando abaixo para clonar o repositório
+# Execute no terminal o comando abaixo para clonar o repositório
 $ git clone https://github.com/Renan-Zanin/money.git
 # Vá até a pasta em que clonou o repositório e abra com o editor de código de sua preferência
+$ cd money
 ```
 
 Com o projeto já aberto em suas máquina
