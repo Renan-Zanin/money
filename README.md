@@ -36,8 +36,10 @@ $ npm i
 # Após a instalação das dependências ser totalmente terminada, abra o terminal e execute
 $ npm expo start
 # Esse comando irá executar o projeto através do Expo
-# As opções de como deseja testar o projeto irão aparecer no terminar, se já possui o emulador de android ou ios instalados, poderá optar por executá-lo através desses emuladores
-# Porém o Expo apresenta a facilidade de executar o projeto diretamente do seu próprio Celular,
+# As opções de como deseja testar o projeto irão aparecer no terminal
+# se já possui o emulador de android ou ios instalados, poderá optar
+# por executá-lo através desses emuladores
+# Porém o Expo apresenta a praticidade de executar o projeto diretamente do seu próprio Celular,
 # É necessário apenas ter instalado o applicado do Expo Go instalado e configurado
 ```
 
