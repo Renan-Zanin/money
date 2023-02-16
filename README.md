@@ -34,7 +34,7 @@ $ yarn
 $ npm i
 # Para instalar localmente todas as dependências do projeto
 # Após a instalação das dependências ser totalmente terminada, abra o terminal e execute
-$ npm expo start
+$ npx expo start
 # Esse comando irá executar o projeto através do Expo
 # As opções de como deseja testar o projeto irão aparecer no terminal se já possui o emulador
 # de android ou ios instalados, poderá optar por executá-lo através desses emuladores
