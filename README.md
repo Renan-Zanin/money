@@ -21,7 +21,7 @@ Com todas as ferramentas necessárias instaladas, agora você poderá clonar e r
 
 ```bash
 # Execute o comando abaixo para clonar o repositório
-$ https://github.com/Renan-Zanin/money.git
+$ git clone https://github.com/Renan-Zanin/money.git
 # Vá até a pasta em que clonou o repositório e abra com o editor de código de sua preferência
 ```
 
